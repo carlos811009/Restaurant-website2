@@ -19,7 +19,7 @@
 
 ### 檢查是否安裝成功 ###
 `$ command -v nvm`
-###由於有設定 .gitignore 因此需要安裝npm
+### 由於有設定 .gitignore 因此需要安裝npm ###
 `npm install`
 
 
