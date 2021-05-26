@@ -2,9 +2,9 @@
 使用 Node.js & Express （handlebars）方式製作餐廳美食清單
 
 # 功能
-．搜尋餐廳
-．點擊餐廳查看細項
-．點擊我的餐廳清單回到首頁
+- 搜尋餐廳
+- 點擊餐廳查看細項
+- 點擊我的餐廳清單回到首頁
 
 # 圖片
 ![image](https://github.com/carlos811009/Restaurant-website/blob/master/%E6%88%AA%E5%9C%96%202021-05-09%2014.37.21.png)
